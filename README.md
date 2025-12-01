@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chayan Gope</h1>
 <h3 align="center">Crafting Code and Creativity: Building Tomorrow's Solutions Today</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C, C++, JAVA, AWS, HTML**
+- 💬 Ask me about **Python, C++, JAVASCRIPT, CSS, HTML**
 
 - 📫 How to reach me **chayangope12@gmail.com**
 
